@@ -100,12 +100,12 @@
   "host_desc2": "The MEME custody contract can also realize MEME's position mining, and LP mining can be divided during the custody period.",
   "Insufficient symbol balance": "Insufficient {{symbol}} balance",
   "applyDesc2": "When the number of registered tokens entered into the airdrop contract address reaches 1,000, the registered tokens will automatically go online in the airdrop contract.",
-  "For each trade a 0.25% fee is paid. 0.17% goes to liquidity providers and 0.08% goes to the MEMESwap treasury.": "For each trade a 0.25% fee is paid. 0.17% goes to liquidity providers and 0.08% goes to the MEMESwap Labs treasury.",
-  "Meme project list": "Meme project list",
-  "Create meme project": "Create meme project",
-  "Please enter MEME address": "Please enter MEME address",
+  "For each trade a 0.25% fee is paid. 0.17% goes to liquidity providers and 0.08% goes to the MEMESwap treasury.": "For each trade a 0.25% fee is paid. 0.05% goes to liquidity providers and 0.20% goes to the MEMESwap Labs treasury.",
+  "Meme project list": "Project list",
+  "Create meme project": "Create a transaction-mining contract",
+  "Please enter MEME address": "Please enter address",
   "Create record": "Create record",
-  "One-click create your MEME projects": "One-click create your MEME projects",
+  "One-click create your MEME projects": "One-click create a transaction-mining contract",
   "Batch transfer": "Batch transfer",
   "Batch mint": "Batch mint",
   "Please upload the excel file first": "Please upload the excel file first",
@@ -117,6 +117,8 @@
   "The upload file can contain up to 200 records": "The upload file can contain up to 200 records.",
   "Export bsc chain token holder information": "Export bsc chain token holder information",
   "Export eth chain token holder information": "Export eth chain token holder information",
-  "Create airdrop token": "Create airdrop token",
-  "After the application is approved, the registered tokens will be able to participate in the airdrop of MEME coins.": "After the application is approved, the registered tokens will be able to participate in the airdrop of {{symbol}} coins."
+  "Create airdrop token": "Create token",
+  "After the application is approved, the registered tokens will be able to participate in the airdrop of MEME coins.": "After the application is approved, the registered tokens will be able to participate in the airdrop of {{symbol}} coins.",
+  "The number of contract addresses registered": "The number of contract addresses registered",
+  "The number of registered contract addresses must not be less than 1000": "The number of registered contract addresses must not be less than 1,000"
 }
