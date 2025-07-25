@@ -465,7 +465,21 @@
   "The upload file can contain up to 200 records": "上傳檔案最多可包含 200 筆記錄。",
   "Export bsc chain token holder information": "bsc鏈代幣持幣人資訊導出",
   "Export eth chain token holder information": "ETH鏈代幣持幣人資訊導出",
-  "Create airdrop token": "創建代幣",
+  "Create airdrop token": "代幣映射",
    "The number of contract addresses registered": "合約地址登記達標數量",
-  "The number of registered contract addresses must not be less than 1000": "合約地址登記達標數量不能低於1000"
+  "The number of registered contract addresses must not be less than 1000": "合約地址登記達標數量不能低於1000",
+  "Create mining contract": "創建交易釋放合約",
+  "One-click create your mining contract": "一鍵創建您的交易釋放合約",
+  "Token address of the associated transaction": "關聯交易的代幣地址",
+  "Please enter token address of the associated transaction": "请输入關聯交易的代幣地址",
+  "Option token address": "期权代幣地址",
+  "Please enter option token address": "请输入期权代幣地址",
+  "The address of the token associated with the transaction is incorrect": "關聯交易的代幣地址不正確。",
+  "The address of the option token is incorrect": "期权代幣地址不正確。",
+  "Created successfully": "創建成功",
+  "Created failed": "創建失敗",
+  "Already created": "已創建",
+  "Add option token": "添加期权代幣",
+  "Transaction release contract": "交易釋放合約",
+  "Please enter the number of contract addresses registered": "請輸入合約地址登記達標數量"
 }
